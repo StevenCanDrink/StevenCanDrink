@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 devs, I'm Steven</h1>
 <h3 align="center">A passionate Full-stack developer from VietNam</h3>
-<img align="right" alt="coding" width = "400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif">
+<img align="right" alt="coding" width = "500" height ="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif">
 - 🌱 I’m currently learning **Javascripts**
 
 - 📫 How to reach me **nhatngau10@gmail.com**
