@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 devs, I'm Steven</h1>
-<h3 align="center">A passionate Full-stack developer from VietNam</h3>
+<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=F76FD7&vCenter=true&width=435&lines=I'm+a+Full-Stack+Developer" alt="Typing SVG" "></p>
 <img align="right" alt="coding" width = "400" height ="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif">
-#🌱 I’m currently learning **Javascripts**
+#🌱 I’m currently learning *Javascripts*
 
 #📫 How to reach me **nhatngau10@gmail.com**
 
