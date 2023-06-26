@@ -16,8 +16,6 @@
 
 <p><img align="left" width= "400" src="https://github-readme-stats.vercel.app/api?username=StevenCanDrink&theme=dracula&hide_border=true&include_all_commits=false&count_private=true" alt="stevencandrink" /><img align="center" width="400" height = "160" src="https://github-readme-streak-stats.herokuapp.com/?user=StevenCanDrink&theme=dracula&hide_border=true" alt="stevencandrink" /></p>
 
-<p>&nbsp;</p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenCanDrink&theme=dracula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="stevencandrink" /></p>
 
 
