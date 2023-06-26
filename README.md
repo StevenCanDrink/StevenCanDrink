@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Full-stack developer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevencandrink&label=Profile%20views&color=0e75b6&style=flat" alt="stevencandrink" /> </p>
+<img align="right" alt="vending" width = "400" src="https://cdn.dribbble.com/users/1454037/screenshots/14580701/media/3009d119496e33e8379b91b06ad5a07f.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevencandrink" alt="stevencandrink" /></a> </p>
 
