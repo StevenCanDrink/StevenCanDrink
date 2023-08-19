@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 devs, I'm Steven</h1>
 <h1 align="center"><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span> <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=F77EBE&multiline=true&width=435&lines=I'm+a+Full-Stack+Developer" alt="Typing SVG" /></h1>
-<img align="right" alt="coding" width = "400" height ="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/bbefa799786133.5efa9bf3d1b49.gif">
+<img align="right" alt="coding" width = "400" height ="200" src="https://giphy.com/gifs/gravity-physics-FsTRLi4SnM86Y">
 #🌱 I’m currently learning *Javascripts*
 
 #📫 How to reach me **nhatngau10@gmail.com**
