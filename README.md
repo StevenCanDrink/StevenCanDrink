@@ -7,7 +7,7 @@
 
 <h3 align="left">#Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/hh_ngyechuai" target="blank"><img align="center" src="![image](https://github.com/StevenCanDrink/StevenCanDrink/assets/134182344/e247f4df-91a7-4e81-81c1-c165678386a8)
+<a href="https://instagram.com/hh_ngyechuai" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/instagram_2504918?term=instagram&page=1&position=32&origin=search&related_id=2504918
 " alt="hh_ngyechuai" height="30" width="40" /></a>
 </p>
 
