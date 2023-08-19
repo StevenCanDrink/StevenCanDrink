@@ -7,7 +7,8 @@
 
 <h3 align="left">#Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/hh_ngyechuai" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt="hh_ngyechuai" height="30" width="40" /></a>
+<a href="https://instagram.com/hh_ngyechuai" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="hh_ngyechuai" height="30" width="40" /></a>
+hh_ngyechuai
 </p>
 
 <h3 align="left">#Languages and Tools:</h3>
