@@ -7,7 +7,8 @@
 
 <h3 align="left">#Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/hh_ngyechuai" target="blank"><img align="center" src="https://giphy.com/stickers/instagram-insta-hhvproduction-jqVUX17Ze8mw0nXBbJ" alt="hh_ngyechuai" height="30" width="40" /></a>
+<a href="https://instagram.com/hh_ngyechuai" target="blank"><img align="center" src="![image](https://github.com/StevenCanDrink/StevenCanDrink/assets/134182344/e247f4df-91a7-4e81-81c1-c165678386a8)
+" alt="hh_ngyechuai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">#Languages and Tools:</h3>
