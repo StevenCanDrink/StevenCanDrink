@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 devs, I'm Steven</h1>
 <h1 align="center"><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span><span>&nbsp;</span> <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=30&pause=1000&color=F77EBE&multiline=true&width=435&lines=I'm+a+Full-Stack+Developer" alt="Typing SVG" /></h1>
 
-#🌱 I’m currently learning *Javascripts*
+#🌱 I’m lifelong learning
 
 #📫 How to reach me **nhatngau10@gmail.com**
 
